@@ -8,3 +8,8 @@ To install:
 ```bash
 pip install example_python_package_shim
 ```
+
+to make a install from this folder
+```bash
+pip install -e .
+```
